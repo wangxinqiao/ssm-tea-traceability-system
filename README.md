@@ -17,6 +17,8 @@
 售出单品：确认售出单品；
 ````
 
+源码获取：[ **点此获取** ](http://www.shuyue.fun/index.php?type=productinfo&id=228)
+
 ## 环境需要
 ````
 1.运行环境：最好是java jdk 1.8，我们在这个平台上运行的。其他版本理论上也可以。
